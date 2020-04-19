@@ -24,5 +24,5 @@ ppx_test tries to replace pa_ounit. It provides the following syntax sugars:
 * let %TEST_UNIT name = e, a replacement of TEST_UNIT name = e"""
 url {
   src: "https://gitlab.com/camlspotter/ppx_test/-/archive/1.6.0/ppx_test-1.6.0.tar.bz2"
-  checksum: "md5=6168c1c7a4de53e686b25fd55de8725a"
+  checksum: "md5=9cfeae7f1b779b34d776abad8bccb64a"
 }
